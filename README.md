@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
-<!-- ![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss) -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
+<!-- ![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss) -->
 <!-- ![Firebase](https://img.shields.io/badge/-Firebase-%232c3e50?style=for-the-badge&logo=Firebase)
 ![React.Js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
 ![Next.Js](https://img.shields.io/badge/-Next.js-%232c3e50?style=for-the-badge&logo=next.js)
